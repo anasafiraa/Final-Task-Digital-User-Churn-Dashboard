@@ -15,7 +15,7 @@ Sebagai seorang Business Intelligence Analyst PT Sejahtera Bersama, saya melakuk
 ## Dataset
 
 ### 🔗 Data Penjualan PT Sejahtera Bersama
-[**Dataset**] https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/dataset_task%2B5.xlsx
+https://github.com/anasafiraa/Final-Task-Digital-User-Churn-Dashboard/blob/main/dataset_task%2B5.xlsx
 
 ## Tahapan Pengerjaan
 ### Soal 1 – Penentuan Primary Key
