@@ -1,4 +1,4 @@
-# 📊 Final Task – Digital User Churn Dashboard (PT Sejahtera Bersama)
+# 📊 Final Task – Sales Performances Dashboard (PT Sejahtera Bersama)
 
 ## Deskripsi Proyek
 
